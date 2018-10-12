@@ -544,6 +544,7 @@
 				ONLY_ACTIVE_ARCH = YES;
 				OTHER_LDFLAGS = "$(inherited)";
 				PRODUCT_NAME = RNFirebase;
+				USE_HEADERMAP = NO;
 				SKIP_INSTALL = YES;
 			};
 			name = Debug;
@@ -587,6 +588,7 @@
 				MACH_O_TYPE = staticlib;
 				OTHER_LDFLAGS = "$(inherited)";
 				PRODUCT_NAME = RNFirebase;
+				USE_HEADERMAP = NO;
 				SKIP_INSTALL = YES;
 			};
 			name = Release;
